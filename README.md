@@ -23,11 +23,6 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\build.ps1
 
 ## 运行
 
-```powershell
-.\start.bat
-```
-
-或者直接运行：
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\start.ps1
